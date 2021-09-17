@@ -4,7 +4,10 @@ import Page from './pages';
 
 function App() {
  return (
-  <Page/>
+   <div>
+ <Page/>
+   </div>
+ 
   );
 }
 
